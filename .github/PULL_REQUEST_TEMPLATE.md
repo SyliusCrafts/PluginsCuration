@@ -15,3 +15,4 @@ This PR [briefly explain what it does]
 - [ ] My proposal plugin use [the template](/plugins/_template.md)
 - [ ] I added my plugin to the [list on the readme](/README.md#admin)
 - [ ] I allowed the edition of your PR from maintainers
+- [ ] My plugin has been developed following the Software Craftmanship approach.
